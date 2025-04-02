@@ -1,6 +1,7 @@
 # Olá, eu sou {Carlos João}
 Olá, meu nome é Carlos, tenho 18 anos, sou de Recife e atualmente estou estudando para Ciência de Dados.
 Curso Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
+Atualmente, sou desenvolvedor Salesforce na DreamExperience.
 
 ## Conecte-se comigo
 
