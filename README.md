@@ -1,30 +1,22 @@
-# Olá, eu sou {Carlos João}
-Olá, meu nome é Carlos, tenho 18 anos, sou de Recife e atualmente estou estudando para Ciência de Dados.
-Curso Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
-Atualmente, sou desenvolvedor Salesforce na DreamExperience.
+# Carlos Santos
+## 🚀 Sobre mim
+Olá!
+Me chamo Carlos Santos, sou Analista Desenvolvedor Salesforce com experiência na Salesforce Plataform e Marketing Cloud da Salesforce. Sou Double Star Ranger no Trailhead e Agentblazer Innovator.
 
-## Conecte-se comigo
+Cursando Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teoremadecarlos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teoremadecarlos)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:carlosjsantos109@gmail.com)
+![Carlos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=brilhantecarlos&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brilhantecarlos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Minhas tecnologias
+## 🔗 Meus Links
+[![Trailhead](https://img.shields.io/badge/trailhead-000?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/brilhantecarlos)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brilhantecarlos/)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+## 🛠 Habilidades
+![Salesforce Plataform](https://img.shields.io/badge/Salesforce_Platform-000?style=for-the-badge&logo=salesforce&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=archlinux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-# Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brilhantecarlos&theme=dracula&bg_icons=true&icon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brilhantecarlos&layout=compact&theme=dracula)
