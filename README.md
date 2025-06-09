@@ -27,4 +27,4 @@ Atualmente, sou desenvolvedor Salesforce na DreamExperience.
 
 # Minhas Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brilhantecarlos&theme=dracula&bg_icons=true&icon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?brilhantecarlos&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brilhantecarlos&layout=compact&theme=dracula)
